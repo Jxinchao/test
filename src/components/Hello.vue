@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <router-link to="/grid">栅格</router-link>>
+    <p>我是PC</p>
   </div>
 </template>
 
